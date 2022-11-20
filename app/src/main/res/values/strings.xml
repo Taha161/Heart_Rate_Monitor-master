@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Heart_Rate_Monitor</string>
+    <string name="default_notification_channel_id">hello world</string>
+    <string name="title_activity_notification_view">NotificationView</string>
+</resources>
